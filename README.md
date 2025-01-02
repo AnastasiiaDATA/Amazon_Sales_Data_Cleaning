@@ -14,7 +14,7 @@ This project involves cleaning and preparing Amazon sales data for further analy
 
 ## Dataset Details
 - **File Used**: Amazon_Sale_Report.csv  
-- **Size**: 26.2 MB  
+- **Size**: 24.1 MB  
 - **Content**: Raw Amazon sales data with columns such as product IDs, sales prices, categories, and order details.
 
 ---
